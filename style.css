@@ -6,16 +6,16 @@
 		  font-size:95%; }
 	a {text-decoration:none;
 	   color:white; }
-	#header{ background-color: #2255e3;
+	#header{ background-color: #7EFFFF;
 	         color:white;}
 	label,#toggle {display:none;}
     #nav {	padding:0;
 	        margin: 0;
 			display:inline;}
 	#nav li{ display: inline-block;
-	         padding: 30px 150px;
+	         padding: 30px 130px;
 			 font-weight:bold;
-			 font-size:22px;}
+			 font-size:21px;}
 	#contents {min-height: 200px; 
 	           background-color:white; }
 	#contents h2{ font-size: 18px;
@@ -28,9 +28,7 @@
 				 color:#2F62B1;}
 	#contents p{padding:0 5%;
 				line-height:1.7em;}
-	#footer {background-color:#323232;
-	         color:white;
-			 text-align:center;
+	#footer {text-align:center;
 			 font-size:0.85em;
 			 padding: 5px 0; }
 	/* 모바일 */
